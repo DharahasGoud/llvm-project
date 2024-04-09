@@ -1,17 +1,19 @@
 # Contributing to LLVM
 
-Thank you for your interest in contributing to LLVM! There are many ways to
-contribute, and we appreciate all contributions.
+Thank you for your interest in contributing to LLVM! We deeply value all contributions from the community.
 
-To get started with contributing, please take a look at the
-[Contributing to LLVM](https://llvm.org/docs/Contributing.html) guide. It
-describes how to get involved, raise issues and submit patches.
+## Getting Started
 
-## Getting in touch
+To begin contributing, please familiarize yourself with the [Contributing to LLVM guide](https://llvm.org/docs/Contributing.html). This guide provides detailed instructions on how to get involved, raise issues, and submit patches.
 
-Join the [LLVM Discourse forums](https://discourse.llvm.org/), [Discord
-chat](https://discord.gg/xS7Z362), or #llvm IRC channel on
-[OFTC](https://oftc.net/).
+## Getting in Touch
 
-The LLVM project has adopted a [code of conduct](https://llvm.org/docs/CodeOfConduct.html) for
-participants to all modes of communication within the project.
+Join the LLVM community through one of the following channels:
+
+- **LLVM Discourse Forums:** Engage in discussions, ask questions, and share your ideas with the LLVM community.
+- **Discord Chat:** Join our Discord server to chat with other LLVM contributors in real-time.
+- **IRC Channel:** Connect to the #llvm channel on the OFTC network to participate in discussions via IRC.
+
+## Code of Conduct
+
+The LLVM project has adopted a [Code of Conduct](https://llvm.org/docs/CodeOfConduct.html) to ensure a welcoming and inclusive environment for all participants across all communication platforms.
